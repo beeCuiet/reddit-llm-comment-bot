@@ -1,6 +1,7 @@
 # Reddit LLM Comment Bot
 This simple python script allows users to programatically comment on the most recent post of a desired subreddit using a Large Language Model to generate the contents of the comment.
 
+[YouTube Video](https://youtu.be/1jeJmfK7t9Y)
 ## Setup
 ### Dependencies
 You must have the following dependencies on your local machine. The versions are not strictly required but the versions listed below have been tested for compatibility.
